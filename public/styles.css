@@ -21,12 +21,12 @@ header p.lead {
 }
 
 .social-links a {
-    color: white;
+    color: rgb(241, 64, 10);
     transition: color 0.3s;
 }
 
 .social-links a:hover {
-    color: #d4d4d4;
+    color: #f70808;
 }
 
 .card-title {
