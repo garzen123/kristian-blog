@@ -3,11 +3,11 @@ body {
 }
 
 header {
-    background-color: #fd0dc9;
+    background-color: #0d61fd;
 }
 
 header img {
-    border: 5px solid white;
+    border: 5px solid rgb(148, 214, 43);
 }
 
 header h1 {
