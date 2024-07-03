@@ -1,9 +1,10 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: rgb(26, 59, 151);
 }
 
 header {
-    background-color: #0d61fd;
+    background-color: #415d91;
 }
 
 header img {
